@@ -1,5 +1,20 @@
 # Changelog
 
+## [26.116.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.115.2...v26.116.0) (2026-10-02)
+
+
+### Features
+
+* **add:** AirWick_nRF52840 ([e1caddb](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e1caddb15923b269fb984b3bb18cd96fb0551f8f))
+* **add:** register AirWick_nRF52840 ([9409b49](https://github.com/Koenkk/zigbee-herdsman-converters/commit/9409b490b04450ee51eeae1d3ad6a103fd4cada2))
+
+
+### Bug Fixes
+
+* move AirWick support to DIY devices ([c3ba0e7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c3ba0e748a7eefe9cb882f7c3ca4ee6030e02fe5))
+* remove standalone AirWick device file ([52056e6](https://github.com/Koenkk/zigbee-herdsman-converters/commit/52056e6530216d2f1191e492e7a415e2a180d9e2))
+* remove standalone AirWick registration ([ff60629](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ff60629fe2933ec289ef7ee45ad05c16792f52f7))
+
 ## [26.115.2](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.115.1...v26.115.2) (2026-10-02)
 
 
